@@ -7,4 +7,6 @@ public class Calculator
 	   int c=a+b;
 	   System.out.println("addition of a and b is "+c);
    }
+    public void substraction(int a,int b){
+    }
 }
