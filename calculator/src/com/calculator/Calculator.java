@@ -13,7 +13,8 @@ public class Calculator
  	   System.out.println("substraction of a and b is "+c);
     }
     public void multiplication(int a,int b)
-   {
-		
+    {
+    	int c=a*b;
+  	   System.out.println("multiplication of a and b is "+c);
     }
 }
