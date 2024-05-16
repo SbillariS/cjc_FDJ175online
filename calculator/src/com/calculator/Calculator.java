@@ -17,4 +17,9 @@ public class Calculator
     	int c=a*b;
   	   System.out.println("multiplication of a and b is "+c);
     }
+    public void division(int a,int b)
+    {
+    	int c=a/b;
+  	   System.out.println("division of a and b is "+c);
+    }
 }
