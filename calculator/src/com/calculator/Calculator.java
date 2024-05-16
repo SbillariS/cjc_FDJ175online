@@ -12,4 +12,8 @@ public class Calculator
     	int c=a-b;
  	   System.out.println("substraction of a and b is "+c);
     }
+    public void multiplication(int a,int b)
+   {
+		
+    }
 }
